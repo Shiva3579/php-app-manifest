@@ -8,7 +8,7 @@ resources:
   - secret.yml
   - pdb.yml
   - db-svc.yml
-  - statefulet.yml
+  - statefulset.yml
   - deployment.yml
   - app-svc.yml
   - hpa.yml
